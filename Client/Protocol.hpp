@@ -1,0 +1,1 @@
+void runProtocol(Session* session);
